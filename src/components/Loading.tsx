@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import "./styles/Loading.css";
 import { useLoading } from "../context/LoadingProvider";
+import "./styles/Loading.css";
 
 import Marquee from "react-fast-marquee";
 
@@ -46,7 +46,7 @@ const Loading = ({ percent }: { percent: number }) => {
     <>
       <div className="loading-header">
         <a href="/#" className="loader-title" data-cursor="disable">
-          Logo
+          SS
         </a>
         <div className={`loaderGame ${clicked && "loader-out"}`}>
           <div className="loaderGame-container">

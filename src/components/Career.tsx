@@ -15,43 +15,39 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Data Analytics Intern</h4>
+                <h5>Webito Infotech</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Jan 25 - May 25</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Assisted in data preprocessing tasks, handling missing values, encoding categorical variables.
+              Performed EDA on raw business data to identify trends, patterns, and anomalies.
+              Improved model input quality for predictive analytics.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Master of Computer Applications (MCA)</h4>
+                <h5>Pimpri Chinchwad University, Pune</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023 - 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              CGPA: 7.61
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>BSc-IT</h4>
+                <h5>Pillai HOC College of Arts, Science and Commerce</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2020 - 2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              CGPA: 9.18 <br />
             </p>
           </div>
         </div>
